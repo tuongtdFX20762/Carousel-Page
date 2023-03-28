@@ -1,0 +1,28 @@
+.bg-img1 {
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+
+}
+
+.bg-img2 {
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+}
+
+.bg-img3 {
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+}
+
+.footer {
+    margin-top: 50px;
+}
+
+.text {
+    display: flex;
+    margin: 0 50px;
+
+}
